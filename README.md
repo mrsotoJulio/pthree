@@ -1,3 +1,7 @@
+theme: jekyll-theme-idk
+title: Welcome to Julio's homepage!
+description: I made this page because I had to, and I'm going to use if for my ACA class.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mrsotoJulio/pthree/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
