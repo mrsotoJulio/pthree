@@ -1,4 +1,4 @@
-theme: jekyll-theme-idk
+theme: jekyll-theme-midnight
 title: Welcome to Julio's homepage!
 description: I made this page because I had to, and I'm going to use if for my ACA class.
 
