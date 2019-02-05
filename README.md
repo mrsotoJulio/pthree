@@ -2,7 +2,7 @@ theme: jekyll-theme-midnight
 title: Welcome to Julio's homepage!
 description: I made this page because I had to, and I'm going to use if for my ACA class.
 
-##Homework 1 PLUS the literature report. <a href="Homework 1.dox">Click Here!</a>
+## Homework 1 PLUS the literature report. <a href="Homework 1.docx">Click Here!</a>
 
 ## Welcome to GitHub Pages
 
